@@ -45,7 +45,7 @@ DICE_LOGIN_URL = "https://www.dice.com/dashboard/login"
 
 # ⚠️ Replace these placeholders with your own credentials before running
 USERNAME = "rajendar.talatam@gmail.com"
-PASSWORD = "@Oracle38"
+PASSWORD = "@sasasasa"
 LOCAL_RESUME = "Rajendar_Talatam _Resume.docx"
 
 # Wait time (in seconds) between job applications to mimic human behavior
